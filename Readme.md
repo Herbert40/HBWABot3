@@ -11,15 +11,19 @@
 * Chuan i WhatsApp a lut la Settings luh na bul ah khan, WhatsApp link device a tangin Qr-Code chu i scan thei ang
 * [GBWhatsApp hmang duh ve hrim hrim tan](https://herbert70.blogspot.com/2022/04/download-gbwhatsapp-last-version-update.html)
 * Heroku Account ila nei loh chuan [hmet rawh](https://signup.heroku.com/login)
-  
+* Railway account ila nei loh chuan [hmet rawh](https://railway.app)
+ 
 ```bash
 https://dashboard.heroku.com/new?template=
+```
+```bash
+https://railway.app/new/template?template=
 ```
 
 </details>
 
 <!-- Start via Heroku -->
-<b><details><summary>Deploy on Railway</summary></b>
+<b><details><summary>Railway app a deploy na</summary></b>
 
 * I WhatsApp link device a tangin scan tur [Hmet rawh](https://replit.com/@HBMods/HBWABot2?v=1?outputonly=1&lite=1#index.js)
 * He Repo hi fork la [Hmet rawh](https://github.com/Herbert40/HBWABot3/fork)
@@ -32,7 +36,7 @@ https://dashboard.heroku.com/new?template=
 </details>
 
 <!-- Start via Heroku -->
-<b><details><summary>Start via Heroku</summary></b>
+<b><details><summary>Heroku app a deployna</summary></b>
 
 * I WhatsApp link device a tangin scan tur [Hmet rawh](https://replit.com/@HBMods/HBWABot2?v=1?outputonly=1&lite=1#index.js)
 * He Repo hi fork la [Hmet rawh](https://github.com/Herbert40/HBWABot3/fork)
